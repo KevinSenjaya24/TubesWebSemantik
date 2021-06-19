@@ -1,0 +1,1 @@
+<footer class="footer text-center"> <script>document.write(new Date().getFullYear());</script> &copy; GKII Majalaya | Site by <a href="" title="GKII Majalaya" target="_blank">GKII Majalaya</a> </footer>
